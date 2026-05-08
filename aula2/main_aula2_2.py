@@ -7,7 +7,7 @@ def multiplicacao(numero1 = 1, numero2 = 1):
     # Contexto da função 
     return numero1*numero2
 
-def divisao(numero1, numero2):
+def divisao(numero1, numero2, numero3):
     return numero1/numero2
 
 # procedure -> não tem retorno
